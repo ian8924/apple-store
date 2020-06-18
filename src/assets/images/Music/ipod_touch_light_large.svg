@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="54" viewBox="0 0 23 54"><defs><style>.cls-1{fill:#333}</style></defs><title>Family-Music-Browser-Icons-MASTER-LMS-03-ff-jay</title><g id="Light"><path id="iPod_touch" data-name="iPod touch" class="cls-1" d="M17.06 16H6a2.82 2.82 0 0 0-3 2.93v29.14A2.82 2.82 0 0 0 6 51h11.06A2.81 2.81 0 0 0 20 48.07V18.93A2.8 2.8 0 0 0 17.06 16zm-5.54 33a1 1 0 1 1 1-1 1 1 0 0 1-1 1zM19 46H4V21h15zm-7-27.49a.5.5 0 1 1-.5-.5.5.5 0 0 1 .5.5z"/></g><!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></svg>

@@ -1,0 +1,58 @@
+.nav-tabs {
+  border-bottom: 0px;
+}
+
+.wrapper {
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 5px;
+  height: 100px;
+}
+
+.list {
+  min-width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+.list_b {
+  margin: 0 auto;
+}
+.list li {
+  display: table-cell;
+  position: relative;
+  text-align: center;
+  cursor: grab;
+  cursor: -webkit-grab;
+  color: #efefef;
+  vertical-align: middle;
+}
+
+.scroller {
+  text-align: center;
+  cursor: pointer;
+  /* display: none; 改由 component 控制 */
+  height: 100px;
+  width: 20px;
+  white-space: no-wrap;
+  vertical-align: middle;
+  background-color: #fff;
+}
+
+.scroller-right {
+  float: right;
+  border-left: 1px solid #eee;
+}
+
+.scroller-left {
+  float: left;
+  border-right: 1px solid #eee;
+}
+
+.scroller i {
+  position: relative;
+  top: 40%;
+}

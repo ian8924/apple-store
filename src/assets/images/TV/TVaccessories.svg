@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="25px" viewBox="0 0 49 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>accessories_dark__dybfk40y28om_large</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="accessories_dark__dybfk40y28om_large" fill="#333333" fill-rule="nonzero">
+            <path d="M13.23,1 L36.44,1 L37,1 C43.12,1.18 47.87,5.63 47.87,11.54 C47.87,17.73 42.58,23.17 36.58,23.17 C34.645839,23.3351401 32.7270855,22.7111845 31.26,21.44 C29.6239469,20.0528512 27.522537,19.338086 25.38,19.44 C23.1256268,19.4110829 20.9224654,20.1127266 19.1,21.44 C17.357755,22.6954462 15.2458684,23.332532 13.1,23.25 C7.1,23.25 1.86,17.8 1.86,11.61 C1.91,5.55 7,1 13.23,1 Z M13.23,0 C6.45,0 0.92,5 0.92,11.55 C0.92,18.1 6.41,24.16 13.19,24.16 C19.81,24.16 19.45,20.46 25.43,20.41 C31.41,20.36 30.03,24.16 36.65,24.16 C43.43,24.16 48.92,18.1 48.92,11.54 C48.92,4.98 43.67,0.19 37.08,0 L13.23,0 Z" id="Shape"></path>
+            <polygon id="Shape" points="16.91 12.99 13.92 12.99 13.92 15.99 11.92 15.99 11.92 12.99 8.92 12.99 8.92 11.02 11.92 11.02 11.92 8 13.92 8 13.92 11.02 16.91 11.02"></polygon>
+            <circle id="Oval" cx="33.92" cy="11.89" r="1.5"></circle>
+            <circle id="Oval" cx="37.42" cy="15.39" r="1.5"></circle>
+            <circle id="Oval" cx="37.42" cy="8.39" r="1.5"></circle>
+            <circle id="Oval" cx="40.92" cy="11.89" r="1.5"></circle>
+        </g>
+    </g>
+</svg>
