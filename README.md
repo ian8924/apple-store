@@ -1,5 +1,5 @@
 # applestore-vue
-
+仿 apple官網 商品販賣網站
 ## Project setup
 
 ```
