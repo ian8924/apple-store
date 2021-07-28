@@ -1,5 +1,5 @@
 # applestore-vue
-仿 apple官網 商品販賣網站
+與銀行合作之apple專案
 ## Project setup
 
 ```
@@ -36,9 +36,3 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-###
-# apple-store
